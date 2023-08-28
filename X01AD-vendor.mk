@@ -2695,7 +2695,6 @@ PRODUCT_PACKAGES += \
     IWlanService \
     TimeService \
     QtiTelephonyService \
-    datastatusnotification \
     embms \
     imssettings \
     uceShimService \
